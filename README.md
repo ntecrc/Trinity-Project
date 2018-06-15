@@ -14,3 +14,10 @@ This project will be updated accordingly.
 Current bugs:
 
 - there is currently a bug in the search field as some conditions may not trigger a search response.  
+
+
+## Preview
+
+
+
+**[View Live Preview](https://ntecrc.github.io/Trinity-Project/)*
