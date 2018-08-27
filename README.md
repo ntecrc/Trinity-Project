@@ -1,4 +1,4 @@
-# Trinity-Project
+# SympSearch Project
 
 Thank you for you for visiting SympSearch (Version 1.1).  The purpose of this project is to enable U.S. based users to locate specialists for their medical conditions.  
 
